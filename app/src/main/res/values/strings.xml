@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">transporte</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_agenda">Agenda</string>
+    <string name="title_novo">Novo agendamento</string>
+    <string name="user_logo">user logo</string>
+</resources>
